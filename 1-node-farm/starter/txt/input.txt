@@ -1,1 +1,10 @@
-The avocado 🥑 is popular in vegetarian cuisine as a substitute for meats in sandwiches and salads because of its high fat content 😄
+this is what I now about node.js readFileSync & writeFileSync command this is what I now about node.js readFileSync & writeFileSync command this is what I now about node.js readFileSync & writeFileSync command this is what I now about node.js readFileSync & writeFileSync command this is what I now about node.js readFileSync & writeFileSync command this is what I now about node.js readFileSync & writeFileSync command this is what I now about node.js readFileSync & writeFileSync command this is what I now about node.js readFileSync & writeFileSync command The avocado 🥑 is popular in vegetarian cuisine as a substitute for meats in sandwiches 
+and salads because of its high fat content 😄.
+ Created on 1666543847571.
+ Created on 1666543950401.
+ Created on 1666544002877.
+ Created on 1666544039887.
+ Created on 1666544053738.
+ Created on 1666544064393.
+ Created on Sun Oct 23 2022 17:55:04 GMT+0100 (British Summer Time).
+ Created on Sun Oct 23 2022 17:55:54 GMT+0100 (British Summer Time)
